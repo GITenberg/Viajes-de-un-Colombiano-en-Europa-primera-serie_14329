@@ -1,0 +1,29 @@
+_repo: Viajes-de-un-Colombiano-en-Europa-primera-serie_14329
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Samper, José María
+    alias: Samper, Jose Maria
+    birthdate: 1828
+    deathdate: 1888
+    gutenberg_agent_id: '5478'
+    url: http://www.gutenberg.org/2009/agents/5478
+description: ''
+gutenberg_issued: '2004-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14329'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- Description and travel'
+tableOfContents: "Colombia.\r\nAlgo de Inglaterra y Francia.\r\nDe París a Madrid.\r\
+  \nLa Nueva Castilla.\r\nLas Andalucias.\r\nDe Madrid a Paris."
+title: Viajes de un Colombiano en Europa, primera serie
+url: http://www.gutenberg.org/ebooks/14329
